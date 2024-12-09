@@ -41,6 +41,8 @@ Arbeitspakete visuell darzustellen. Die Hauptphasen umfassen Vorbereitungs-,
 Planungs-, Entwicklungs-, Test- und Abschlussphasen, welche die Struktur und
 zeitliche Abfolge des Projekts verdeutlichen.
 
+Es müssen noch einige Veränderungen am PSP und PAP vorgenommen werden, da Felix und Emanuel heute nicht da waren.
+
 ## Form der Zusammenarbeit
 - Einfache Organisation: Wir arbeiten zu 100% am Projekt
 und haben keine Routinetätigkeiten
