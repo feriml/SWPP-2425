@@ -29,6 +29,18 @@ um die Nutzererfahrung zu verbessern.
 - Projektmitarbeiter: Emanuel, Raphael
 - Kunde: Endbenutzer
 
+## Projektablaufplan
+### Zweck und Ziel
+Der Projektstrukturplan (PSP) dient zur Übersicht und Organisation aller 
+Projektaufgaben und -phasen. Er strukturiert die Aufgaben und ihre 
+Zusammenhänge klar und übersichtlich.
+
+## Projektstrukturplan
+Der Ablaufplan wurde als SmartArt erstellt, um die Projektphasen und deren 
+Arbeitspakete visuell darzustellen. Die Hauptphasen umfassen Vorbereitungs-,
+Planungs-, Entwicklungs-, Test- und Abschlussphasen, welche die Struktur und
+zeitliche Abfolge des Projekts verdeutlichen.
+
 ## Form der Zusammenarbeit
 - Einfache Organisation: Wir arbeiten zu 100% am Projekt
 und haben keine Routinetätigkeiten
