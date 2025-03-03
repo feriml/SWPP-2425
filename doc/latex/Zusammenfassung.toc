@@ -5,4 +5,5 @@
 \contentsline {subsection}{\numberline {0.3.1}Beteiligte Personen}{2}{}%
 \contentsline {section}{\numberline {0.4}Projektablaufplan}{2}{}%
 \contentsline {subsection}{\numberline {0.4.1}Zweck und Ziel}{2}{}%
-\contentsline {section}{\numberline {0.5}Projektstrukturplan}{3}{}%
+\contentsline {section}{\numberline {0.5}Projektstrukturplan}{4}{}%
+\contentsline {section}{\numberline {0.6}Form der Zusammenarbeit}{4}{}%

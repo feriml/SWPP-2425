@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.17)  3 MAR 2025 09:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.17)  3 MAR 2025 09:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -168,25 +168,18 @@ File: images/Gantt1.png Graphic file (type png)
 <use images/Gantt1.png>
 Package pdftex.def Info: images/Gantt1.png  used on input line 49.
 (pdftex.def)             Requested size: 276.00105pt x 213.05327pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <images/Gantt2.png, id=14, 951.555pt x 467.346pt>
 File: images/Gantt2.png Graphic file (type png)
 <use images/Gantt2.png>
 Package pdftex.def Info: images/Gantt2.png  used on input line 56.
 (pdftex.def)             Requested size: 276.00105pt x 135.55539pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2]
-<images/PSP.png, id=19, 1097.2995pt x 403.5075pt>
+ [2] [3 <./images/Gantt1.png> <./images/Gantt2.png>]
+<images/PSP.png, id=24, 1097.2995pt x 403.5075pt>
 File: images/PSP.png Graphic file (type png)
 <use images/PSP.png>
-Package pdftex.def Info: images/PSP.png  used on input line 70.
+Package pdftex.def Info: images/PSP.png  used on input line 69.
 (pdftex.def)             Requested size: 276.00105pt x 101.49232pt.
- [3 <./images/Gantt1.png>] [4 <./images/Gantt2.png> <./images/PSP.png>] (Zusammenfassung.aux)
+ [4 <./images/PSP.png>] (Zusammenfassung.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -199,9 +192,9 @@ Here is how much of TeX's memory you used:
  25427 multiletter control sequences out of 15000+600000
  562957 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,6n,69p,316b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,6n,69p,316b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\gstre\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Zusammenfassung.pdf (5 pages, 468302 bytes).
+Output written on Zusammenfassung.pdf (5 pages, 469391 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
