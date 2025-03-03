@@ -1,0 +1,33 @@
+\documentclass[ngerman]{report}
+\usepackage{graphicx}
+\usepackage[german,ngerman]{babel}
+\title{SWPP Zusammenfassung}
+    \author{Michael Netzer}
+    \begin{document}
+    \maketitle
+    \tableofcontents
+    \chapter{Übung 1}  
+    Abbildung \ref{fig:portrait} zeigt diesen Herrn.
+    Die Details sind in Abbildung \ref{tab:teilnehmer}
+    
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.75\textwidth]{images/DSC_2609_small - hak}
+        \caption{Michael Netzer}
+        \label{fig:portrait}
+    \end{figure}
+    
+    \begin{table}[h]
+        \begin{center}
+            \begin{tabular}{ l  l | c }
+             Vorname & Nachname & Ort \\
+             \hline
+             Max & Mustermann & Imst \\  
+             Susi & Sorglos & Tarrenz    
+            \end{tabular}
+        \end{center}
+        \caption{Die Teilnehmer}
+        \label{tab:teilnehmer}
+    \end{table}
+ 
+\end{document}
