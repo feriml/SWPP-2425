@@ -1,3 +1,5 @@
 \babel@toc {german}{}\relax 
 \contentsline {section}{\numberline {0.1}Definition}{2}{}%
 \contentsline {section}{\numberline {0.2}Zielsetzung (SMART)}{2}{}%
+\contentsline {section}{\numberline {0.3}Projektorganisation}{2}{}%
+\contentsline {subsection}{\numberline {0.3.1}Beteiligte Personen}{2}{}%

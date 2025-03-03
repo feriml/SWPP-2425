@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1740986655.02414 "c:/Users/gstre/OneDrive - Bundeshandelsakademie Imst/3_HAK/APR/SWPP-2425/doc/latex/Zusammenfassung.tex" "Zusammenfassung.pdf" "Zusammenfassung" 1740986655.58366 0
+["pdflatex"] 1740987390.54744 "c:/Users/gstre/OneDrive - Bundeshandelsakademie Imst/3_HAK/APR/SWPP-2425/doc/latex/Zusammenfassung.tex" "Zusammenfassung.pdf" "Zusammenfassung" 1740987394.62945 0
   "C:/Users/gstre/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740984844 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/gstre/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1740987394 11548 18447cf3f56f418f55dd36b268fb69ae ""
   "C:/Users/gstre/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1739793449 24225046 6255d64956efa4228c2db236d3d105ff ""
+  "C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -48,10 +50,10 @@
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "C:/Users/gstre/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "Zusammenfassung.aux" 1740986655 340 10f4423cf6d4342aa254c9065508b538 "pdflatex"
-  "Zusammenfassung.tex" 1740986654 1609 233f81d55c4ca75a3a3b390a88e8e351 ""
-  "Zusammenfassung.toc" 1740986655 156 1e1a2bce0709a705e980eca67892d24c "pdflatex"
-  "c:/Users/gstre/OneDrive - Bundeshandelsakademie Imst/3_HAK/APR/SWPP-2425/doc/latex/Zusammenfassung.tex" 1740986654 1609 233f81d55c4ca75a3a3b390a88e8e351 ""
+  "Zusammenfassung.aux" 1740987391 563 d02a9626c414441a00c18585d24270ce "pdflatex"
+  "Zusammenfassung.tex" 1740987388 1885 42330f218b9061880f2dc85b534749e8 ""
+  "Zusammenfassung.toc" 1740987391 297 925b4fd641d409c8e6e7b34e82444a8b "pdflatex"
+  "c:/Users/gstre/OneDrive - Bundeshandelsakademie Imst/3_HAK/APR/SWPP-2425/doc/latex/Zusammenfassung.tex" 1740987388 1885 42330f218b9061880f2dc85b534749e8 ""
   (generated)
   "Zusammenfassung.aux"
   "Zusammenfassung.log"
