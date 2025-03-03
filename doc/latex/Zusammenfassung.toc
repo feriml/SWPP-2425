@@ -1,2 +1,2 @@
 \babel@toc {german}{}\relax 
-\contentsline {chapter}{\numberline {1}Übung 1}{2}{}%
+\contentsline {section}{\numberline {0.1}Definition}{2}{}%
