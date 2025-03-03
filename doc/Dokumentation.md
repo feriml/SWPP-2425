@@ -34,7 +34,7 @@ um die Nutzererfahrung zu verbessern.
 Der Projektstrukturplan (PSP) dient zur Übersicht und Organisation aller 
 Projektaufgaben und -phasen. Er strukturiert die Aufgaben und ihre 
 Zusammenhänge klar und übersichtlich.
-![PAP](images/Gantt%201.png) ![PAP2](images/Gantt%202.png)
+![PAP](images/Gantt1.png) ![PAP2](images/Gantt2.png)
 
 
 ## Projektstrukturplan
