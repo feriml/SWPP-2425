@@ -34,7 +34,7 @@ um die Nutzererfahrung zu verbessern.
 Der Projektstrukturplan (PSP) dient zur Übersicht und Organisation aller 
 Projektaufgaben und -phasen. Er strukturiert die Aufgaben und ihre 
 Zusammenhänge klar und übersichtlich.
-![PAP](Gantt%201.png) ![PAP2](Gantt%202.png)
+![PAP](images/Gantt%201.png) ![PAP2](images/Gantt%202.png)
 
 
 ## Projektstrukturplan
@@ -42,7 +42,7 @@ Der Ablaufplan wurde als SmartArt erstellt, um die Projektphasen und deren
 Arbeitspakete visuell darzustellen. Die Hauptphasen umfassen Vorbereitungs-,
 Planungs-, Entwicklungs-, Test- und Abschlussphasen, welche die Struktur und
 zeitliche Abfolge des Projekts verdeutlichen.
-![PSP](PSP.png)
+![PSP](images/PSP.png)
 
 
 ## Form der Zusammenarbeit
